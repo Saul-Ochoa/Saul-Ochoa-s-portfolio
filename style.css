@@ -1,0 +1,46 @@
+/* Reset básico */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+/* Header */
+header {
+  background: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+/* Secciones */
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Títulos */
+h1, h2 {
+  color: #333;
+}
+
+/* Contacto */
+a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
